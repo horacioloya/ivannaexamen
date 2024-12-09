@@ -1,0 +1,80 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+  <h1>Lalaland</h1>
+
+  <h1>¿Qué significa la película La La Land?</h1>
+  <p><i>La cinta nos demuestra lo importante que son los pequeños logros y pequeños pasos que te encaminen y te acerquen poco a poco a tu objetivo final, sin desesperarte y aunque a veces no lo parezca.</i></p> <!-- Texto en cursiva -->
+  
+  <h1>¿Cuál es el sentido de Lala Land?</h1>
+
+  <p><strong>Esta película muestra el dilema al que se enfrentan las personas que persiguen sus sueños y, al mismo tiempo, renuncian a lo que aman y hacen sacrificios . Alcanzar los sueños a veces tiene un precio. Duele ver a los personajes enamorarse y luego separarse en el mundo para tal vez no volver a verse nunca más.</strong></p> <!-- Texto en negrita -->
+
+  <h1>¿Qué significa el final de Lala Land?</h1>
+  <p><u>En dicho final, Mia (Emma Stone) y Sebastian (Ryan Gosling) se encuentran después de cinco años separados en los que cada uno ha decidido perseguir sus sueños y rehacer sus vidas en lugar de encontrar la felicidad entre ellos.</u></p>
+
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cambiar fondo</title>
+    <style>
+        body {
+            background-color: #e9b3d5; /* Cambia el código de color para elegir otro */
+        }
+    </style>
+</head>
+<body>
+    
+    
+  
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+<img src="fotoexamen" alt="" width="450">
+<img src="imagen2.jpeg" alt="" width="710">
+<img src="/home/alercehighschool/IVANNA CASTRO/foto2.jpeg" alt="error" width="300">
+ 
+<br>
+ <br>
+ <br>
+ <br>
+ <br>
+
+ <video autoplay muted loop>
+   <source src="videoexamen.mp4" type="video/mp4">
+</video>
+
+<video controls width="300">
+  <source src="videoexamen.mp4" type="video.mp4">
+</video> 
+<body>
+<html>    
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h1>Receta</h1>
+<li>- tortilla</li>
+<li>- queso oaxaca </li>
+
+<h1>Pasos</h1>
+<li>- poner las tortillas en el comal</li>
+<li>ponerle el queso a la tortilla</li>
+<li>cerrar la quesadilla con otra tortilla</li>
+
+</body>
+  </html>
